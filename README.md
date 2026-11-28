@@ -12,7 +12,7 @@ The full comparison, source directory and install notes live on **[hookshotgithu
 
 This repository does **not** replace those pages. It exists so the same point-in-time checks can be read as markdown and as `status.json`.
 
-The snapshot in this commit was assembled on **2026-11-24**, after a fresh official-source recheck. Availability and tags can change after `last_checked`.
+The snapshot in this commit was assembled on **2026-11-28**, after a fresh official-source recheck. Earlier commits record previous checks. Availability and tags can change after `last_checked`.
 
 ## Red line
 
